@@ -11,7 +11,7 @@ export const metadata: Metadata = {
     template: '%s | Abhi',
     default: 'Abhi',
   },
-  description: 'I build things for the web.',
+  description: 'I build things for WEB and APPS.',
   metadataBase: new URL('https://dalelarroder.com'),
 };
 
