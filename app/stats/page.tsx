@@ -4,8 +4,6 @@ import Header from '../components/header';
 import NowPlaying from '../components/spotify/now-playing';
 import SpotifySkeleton from '../components/spotify/spotify-skeleton';
 import TopTracks from '../components/spotify/top-tracks';
-import WakaStats from '../components/wakatime/wakastats';
-import WakatimeSkeleton from '../components/wakatime/wakatime-skeleton';
 
 export const dynamic = 'force-dynamic';
 export const metadata = {
@@ -29,12 +27,10 @@ export default function StatsPage() {
         <Suspense
           fallback={
             <Fragment>
-              <WakatimeSkeleton />
               <SpotifySkeleton />
             </Fragment>
           }
         >
-          <WakaStats />
           <TopTracks />
         </Suspense>
         <NowPlaying />
