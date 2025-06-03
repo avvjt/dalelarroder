@@ -7,6 +7,7 @@ import TopTracks from '../components/spotify/top-tracks';
 import WakaStats from '../components/wakatime/wakastats';
 import WakatimeSkeleton from '../components/wakatime/wakatime-skeleton';
 
+export const dynamic = 'force-dynamic';
 export const metadata = {
   title: 'Stats',
   description: 'My Stats - Abhi',

@@ -5,7 +5,7 @@ import Header from '../components/layouts/header';
 import { CustomMDX } from '../components/mdx';
 import SpotifySkeleton from '../components/spotify/spotify-skeleton';
 import TopTracks from '../components/spotify/top-tracks';
-import WakaStats from '../components/wakatime/wakastats';
+
 import WakatimeSkeleton from '../components/wakatime/wakatime-skeleton';
 import { readMDXFile } from '../thoughts/utils';
 import GithubContributions from './github-contributions/github-contributions';
@@ -34,7 +34,7 @@ export default function Page() {
           </Fragment>
         }
       >
-        <WakaStats />
+        {/* <WakaStats /> */}
         <TopTracks />
       </Suspense>
       <Footer />
