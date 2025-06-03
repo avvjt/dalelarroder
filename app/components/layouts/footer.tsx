@@ -20,7 +20,7 @@ export default function Footer() {
               <li>{`© ${new Date().getFullYear()}`}</li>
               <li>{` • `}</li>
               <li>
-                <Link href="/">Dale Larroder</Link>
+                <Link href="/">Abhi</Link>
               </li>
             </ul>
             <ul className="flex cursor-pointer items-center">

@@ -59,4 +59,4 @@ Prevoius v1 version:
 
 ## Licence
 
-[MIT](https://github.com/dlarroder/dalelarroder/blob/master/LICENSE) © [Dale Larroder](https://www.dalelarroder.com)
+[MIT](https://github.com/dlarroder/dalelarroder/blob/master/LICENSE) © [Abhi](https://www.dalelarroder.com)

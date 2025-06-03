@@ -4,7 +4,7 @@ import Header from '../components/header';
 
 export const metadata = {
   title: 'Projects',
-  description: 'My Projects - Dale Larroder',
+  description: 'My Projects - Abhi',
 };
 
 export default function Page() {

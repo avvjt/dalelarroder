@@ -8,8 +8,8 @@ import './tailwind.css';
 
 export const metadata: Metadata = {
   title: {
-    template: '%s | Dale Larroder',
-    default: 'Dale Larroder',
+    template: '%s | Abhi',
+    default: 'Abhi',
   },
   description: 'I build things for the web.',
   metadataBase: new URL('https://dalelarroder.com'),
