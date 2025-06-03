@@ -27,13 +27,11 @@ export default function Home() {
             </h1>
             <section className="relative z-10">
               <p className="text-base text-justify">
-                I&apos;m Abhi — a Software Engineer and forever a student of the
-                craft. I love building things for the web and am always on the
-                lookout for new challenges and opportunities to learn. I&apos;m
-                passionate about creating beautiful and functional user
-                experiences. I believe the best way to learn is by doing, so
-                I&apos;m constantly exploring new technologies. Right now,
-                working on a{' '}
+                I&apos;m Abhi — a Software Engineer and lived in kolkata. I love
+                building things for the web and apps. I&apos;m passionate about
+                creating beautiful and functional user experiences. I believe
+                the best way to learn is by doing, so I&apos;m constantly
+                exploring new technologies. Right now, working on a{' '}
                 <a
                   href="https://www.connectaide.ai/"
                   className="underline-magical"
@@ -42,7 +40,7 @@ export default function Home() {
                 >
                   New York
                 </a>{' '}
-                based company.
+                based company. currently I&apos;m more focused on REACT!
               </p>
             </section>
             <section className="relative z-10 flex space-x-4 items-center text-sm">
